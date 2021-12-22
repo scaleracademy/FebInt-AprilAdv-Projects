@@ -43,7 +43,7 @@ notes
 
 ## REST API
 
-
+HINT: Complete this like https://github.com/scaleracademy/open-source-projects/discussions/81#discussioncomment-869800 
 
 
 
